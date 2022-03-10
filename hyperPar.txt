@@ -1,11 +1,11 @@
 public static boolean hyperPar(int num){
 
 	int resto;
-<<<<<<< HEAD
+
 	if (num>=0)
-=======
+
 	if(num>=0)
->>>>>>> f71dc724732c81ee5320ea9a4f8bd8c5d325524c
+
 	{
 		while (/num!=0)
 		{
@@ -18,11 +18,11 @@ public static boolean hyperPar(int num){
 		}
 		return true;
 	}
-<<<<<<< HEAD
+
 	else {
 		return false
 	}		
 }
-=======
+
 }
->>>>>>> f71dc724732c81ee5320ea9a4f8bd8c5d325524c
+
